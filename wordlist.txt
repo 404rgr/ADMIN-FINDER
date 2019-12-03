@@ -413,3 +413,5 @@ administratorlogin.cgi
 admin_panel/
 admin_panel.html
 adm_cp/
+index.php
+
