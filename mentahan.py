@@ -20,7 +20,7 @@ print banner
 target = raw_input('[Target]> ')
 
 #open wordlist
-f=open('/data/data/com.termux/files/home/Shell-Finder/dictionary','r')
+f=open('wordlist.txt','r')
 kontent=f.read()
 x=kontent.split('\n')
 
