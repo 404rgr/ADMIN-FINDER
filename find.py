@@ -1,10 +1,11 @@
 #######################################
 """
 	    Mau Ngapain?
-	      Record ?
-	  Ga tau malu kau,
-	izin dulu kek su :v
-	Wa : 0895320325423
+	   Code By Zeerx7
+          INDONESIAN CODER
+    "Membuat Lebih Menyenangkan
+         Dari Pada Pemakai"
+         WA: 0895320325423
 """
 #######################################
 #import module
@@ -56,7 +57,7 @@ def go():
 	target = raw_input(targetgan)
 	print
 	time.sleep(1.5)
-	asu="Wlist.txt"
+	asu="wordlist.txt"
 	f=open(asu,'r')
 	kontent=f.read()
 	x=kontent.split("\n")
